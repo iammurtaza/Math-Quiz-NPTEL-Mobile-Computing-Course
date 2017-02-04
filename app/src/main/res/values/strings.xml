@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="no_value">No previous value</string>
+    <string name="cheat_button">Cheat</string>
+    <string name="cheat_toast">You have cheated</string>
+    <string name="hint_button">Hint</string>
+    <string name="cheat_warning_text">You are about to cheat</string>
+    <string name="show_cheat_button">Show cheat</string>
+    <string name="previous_button">Previous</string>
+</resources>
